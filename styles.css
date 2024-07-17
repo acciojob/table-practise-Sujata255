@@ -1,5 +1,6 @@
 table,tr,th,td{
 	background: yellow;
 	border: 1px solid #000;
+	padding: 10px;
 }
 
